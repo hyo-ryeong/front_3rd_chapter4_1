@@ -34,7 +34,7 @@
 
 ## 주요 링크
 
-- **S3 버킷 웹사이트 엔드포인트**: [http://hyo-hanghae.s3-website-us-east-1.amazonaws.com](http://hyo-hanghae.s3-website-us-east-1.amazonaws.com)
+- **S3 버킷 웹사이트 엔드포인트**: [[http://hyo-hanghae.s3-website-ap-southeast-2.amazonaws.com](http://hyo-hanghae.s3-website-ap-southeast-2.amazonaws.com)]
 - **CloudFront 배포 도메인 이름**: [https://d3jkj0hl7piyz3.cloudfront.net](https://d3jkj0hl7piyz3.cloudfront.net)
 
 ---
